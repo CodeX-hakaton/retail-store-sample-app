@@ -2027,14 +2027,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@opentelemetry/id-generator-aws-xray@npm:^2.0.0":
-  version: 2.0.0
-  resolution: "@opentelemetry/id-generator-aws-xray@npm:2.0.0"
+"@opentelemetry/id-generator-aws-xray@npm:^2.1.0":
+  version: 2.1.0
+  resolution: "@opentelemetry/id-generator-aws-xray@npm:2.1.0"
   dependencies:
     "@opentelemetry/sdk-trace-base": "npm:^2.0.0"
   peerDependencies:
     "@opentelemetry/api": ^1.0.0
-  checksum: 10c0/9e4fb3e4841d30298bf53e6fda57a454e320f326581939338d7d7d87a9cbe5d0a1f9b2386416e8367826e4ed6fbd44f182334b14c2c0fac37b1e3d57b569ab6a
+  checksum: 10c0/b5808223b0661a21debc958294a0d52eab6182914b81127e371e04313531caa384f00762283a43a9c4817cab43bd036351256495f1927379af7ebdcf80b300f6
   languageName: node
   linkType: hard
 
@@ -4728,7 +4728,7 @@ __metadata:
     "@nestjs/testing": "npm:^11.1.3"
     "@opentelemetry/auto-instrumentations-node": "npm:^0.60.1"
     "@opentelemetry/exporter-trace-otlp-http": "npm:^0.202.0"
-    "@opentelemetry/id-generator-aws-xray": "npm:^2.0.0"
+    "@opentelemetry/id-generator-aws-xray": "npm:^2.1.0"
     "@opentelemetry/resource-detector-aws": "npm:^2.2.0"
     "@opentelemetry/sdk-node": "npm:^0.202.0"
     "@types/express": "npm:^5.0.3"
